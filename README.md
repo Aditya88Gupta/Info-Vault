@@ -1,8 +1,8 @@
 
 
-Info Vault
+## <div align="center"> Info Vault </div>
 
-Introduction
+#### Introduction
 
 Discussion of new ideas and sharing of knowledge is a prominent part of learning and hence
 
@@ -60,9 +60,7 @@ respective faculty, ask doubts, exchange ideas, and move towards academic achiev
 
 
 
-
-
-Problem Statement
+#### Problem Statement
 
 Due to the pandemic, we have been forced to switch to online learning, the methods during
 
@@ -122,8 +120,6 @@ similar interests and goals, which will, in turn, prove to beneficial for all.
 
 
 
-
-
 Info Vault will not only improve the learning achievement of students of our college but will also
 
 enhance the teaching experience for the faculty. At Info Vault, the teaching staff could keep
@@ -138,7 +134,8 @@ of education and would prove to be a portal where students could learn from one 
 
 move towards academic excellence.
 
-Software requirements
+
+#### Software requirements
 
 For building this project
 
@@ -147,20 +144,3 @@ For building this project
 \2. Back-end - node.js, express.js, and MySQL
 
 \3. IDE - visual studio code and Chrome browser
-
-For using Info Vault
-
-Any system with internet connectivity.
-
-Name of group members
-
-Aditya Gupta, E19CSE311, EB01
-
-Anuj Agarwal, E19CSE327, EB01
-
-Aryan Rajoria, E19CSE319, EB13
-
-Vishrut Sharma, E19CSE295, EB01
-
-ER Diagram and Relational Schema for Info Vault has been attached to this document.
-
