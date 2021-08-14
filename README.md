@@ -4,7 +4,8 @@
 
 #### Introduction
 
-Discussion of new ideas and sharing of knowledge is a prominent part of learning and hence
+
+<div align="center"> Discussion of new ideas and sharing of knowledge is a prominent part of learning and hence
 
 one of the most important ingredients for academic progress. It helps students to process the
 
@@ -19,6 +20,7 @@ successful in learning achievement. Being part of a study group and having a pla
 exchange/discuss ideas not only helps in academic excellence but also helps one build his soft
 
 skills and trains one in self-expression.
+  
 
 Under normal circumstances, students had ample opportunities to interact and discuss doubts,
 
@@ -49,6 +51,7 @@ to an advanced level. This humongous amount of information could prove to be ove
 especially for students new to the field of computer science. As a result, students are often
 
 reluctant to use these platforms for discussions.
+  
 
 With Info Vault, we aim to provide the students of our college the platform they need to ask their
 
@@ -56,13 +59,13 @@ doubts, inquire about topics, and share knowledge. Info Vault will be a question
 
 portal especially designed for a student of our college, where he/she could interact with their
 
-respective faculty, ask doubts, exchange ideas, and move towards academic achievement.
+respective faculty, ask doubts, exchange ideas, and move towards academic achievement. </div>
 
 
 
 #### Problem Statement
 
-Due to the pandemic, we have been forced to switch to online learning, the methods during
+<div align="center"> Due to the pandemic, we have been forced to switch to online learning, the methods during
 
 which the interaction level of students has decreased, as on-campus they had ample
 
@@ -76,11 +79,13 @@ queries, and even solve other’s queries to help their fellow.
 
 Given the current circumstances, it has been difficult for the student to become more aware and
 
-explore different domains except for their course subjects
+explore different domains except for their course subjects.</div>
 
-Objective
 
-Given the importance of discussion and interaction in learning, it is paramount that students of
+#### Objective
+
+
+<div align="center"> Given the importance of discussion and interaction in learning, it is paramount that students of
 
 our college have accessibility to a platform that would allow them to host a discussion/debate.
 
@@ -92,11 +97,13 @@ features of various web portals like StackOverflow and Quora and precisely desig
 
 for a student of Bennett. We hope that a question and answer portal relevant to students of our
 
-college would help them move towards better learning achievement.
+college would help them move towards better learning achievement. </div>
+  
 
-Proposed System
+#### Proposed System
+  
 
-Info Vault will be a web portal for discussion, specially designed for the students of Bennett
+<div align="center"> Info Vault will be a web portal for discussion, specially designed for the students of Bennett
 
 University, where students can not only discuss doubts and exchange ideas but also interact
 
@@ -132,7 +139,7 @@ We hope that Info Vault will be a platform that would bring about a change in th
 
 of education and would prove to be a portal where students could learn from one another and
 
-move towards academic excellence.
+move towards academic excellence.</div>
 
 
 #### Software requirements
